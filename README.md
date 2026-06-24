@@ -22,3 +22,7 @@ Due to GitHub's strict 100MB upload file limits, the trained **753 MB** model we
 Open `ChitroJera_VQA_Pipeline.ipynb` directly in Google Colab or locally with a GPU.
 3. Run Inference:
 Download the `chitrojera_dual_encoder.pt` file from the Hugging Face link above, drop it into your workspace directory, and use the provided `ask_chitrojera()` function to query your own images in Bangla!
+
+---
+
+Ref - https://arxiv.org/pdf/2410.14991
